@@ -1,15 +1,3 @@
-<style>
-    h2{
-        text-align: center;
-        color: pink;
-    }
-
-    h1{
-        text-align: center;
-        color: pink;
-    }
-</style>
-
 <h2>PROJETO DAS NOTICIAS</h2>
 
 
@@ -22,3 +10,5 @@
     <li>NOTICIAS DE SERIES</li>
     <li>NOTICIAS DE ANIMES</li>
 </ul>
+
+O LINK DO PERFIL: MATHEUS DE PAIVA <a href="https://github.com/ninjakgame">Perfil</a>
